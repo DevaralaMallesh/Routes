@@ -28,7 +28,7 @@
   color: #61dafb;
 }
 .background-container {
-  background-image: url('C:\ReactProject\routerproject\public\cover.jpg');
+  background-image: url('C:\ReactProject\routerproject\Routes\public\cover.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
